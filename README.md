@@ -7,7 +7,7 @@ This is a lightweight Python application that connects with **IBM Watsonx** and 
 
 ## 🧰 Prerequisites
 
-- Python 3.7 or higher
+- Python 3.10 or higher
 - Git
 - Access to `.env.example` file (provided by IBM during the workshop)
 - IBM Watsonx API Key & Project ID
