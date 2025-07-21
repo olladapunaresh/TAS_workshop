@@ -37,7 +37,7 @@ Install the required Python packages:
 pip install -r requirements.txt
 ```
 
-This will install all necessary libraries including `python-dotenv` for environment variable loading and `requests` for API calls.
+This will install all necessary libraries for the workshop.
 
 ---
 
