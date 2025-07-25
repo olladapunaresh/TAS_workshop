@@ -1,6 +1,6 @@
-# IBM TAS Workshop – Tasmania Student Edition 🇦🇺
+# IBM TAS Workshop – University of Tasmania 🇦🇺
 
-Welcome to the official repository for the **IBM Tasmania Student Workshop**!  
+Welcome to the official repository for the **IBM UTas Student Workshop**!  
 This is a lightweight Python application that connects with **IBM Watsonx** and demonstrates prompt-based interactions. The goal is to help you explore the capabilities of **generative AI agents** by customizing the prompts and using IBM Cloud services.
 
 ---
